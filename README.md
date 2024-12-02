@@ -17,8 +17,8 @@ Ensure the following are installed on your system:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone <repository-url>
-cd <project-folder>
+git clone <https://github.com/umairinayat/DevSerach.git>
+cd <DevSerach>
 ```
 
 ### Step 2: Create a Virtual Environment
